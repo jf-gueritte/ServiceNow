@@ -1,15 +1,13 @@
-# ServiceNow
-Part of code useful for ServiceNow development.
+## SNow Script List
 
-## Script list
-### Catalog_UI_Policy
+### Catalog UI Policy
 
 | Name  | Description  |
 |:----------|:----------|
-|Copy_value_from_checkbox_to_field|Copy the text value from a checbox to a field after Update, Submit or Order.  |
+|Copy_value_from_checkbox_to_field|Copy the text value from a checkbox to a field after Update, Submit or Order.  |
 |Make_variable_set_editable_or_mandatory_in_task|   |
 
-### Client_Script
+### Client Script
 
 | Name  | Description  |
 |:----------|:----------|
